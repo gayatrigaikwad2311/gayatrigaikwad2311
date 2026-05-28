@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hey, I'm Gayatri Gaikwad 👋</h1>
 
 <p align="center">
@@ -66,33 +64,12 @@ I'm a data professional with hands-on experience in **Python, SQL, and data anno
 
 ## 📂 Featured Projects
 
-### 🍕 [Pizza Sales Trends](https://github.com/gayatrigaikwad2311/pizza_sales_trends)
-> End-to-end analysis of pizza sales data to uncover revenue trends, peak hours, and bestselling categories.
-- Performed data cleaning, aggregation, and time-series analysis using **Pandas**
-- Built visualizations to identify top-performing SKUs and seasonal demand patterns
-- **Stack:** Python · Pandas · Matplotlib · Seaborn
-
----
-
-### 🛒 [Retail Data Analysis](https://github.com/gayatrigaikwad2311/retail_data_analysis_apr26)
-> Exploratory data analysis on retail transactions using Pandas functionalities on real-world sample data.
-- Applied advanced Pandas operations: groupby, merge, pivot tables, window functions
-- Derived actionable insights on customer purchasing behaviour and product performance
-- **Stack:** Python · Pandas · Jupyter Notebook
-
----
-
-### 🌲 [Random Forest & Linear Regression](https://github.com/gayatrigaikwad2311/random_forest_algo)
-> Implementation and comparison of supervised ML algorithms from scratch.
-- Built and evaluated Linear Regression and Random Forest models
-- Analysed feature importance and model performance metrics (R², RMSE)
-- **Stack:** Python · Scikit-learn · Jupyter Notebook
-
----
-
-### 🤖 [ML Project](https://github.com/gayatrigaikwad2311/MLproject)
-> Machine learning pipeline built end-to-end in Python.
-- **Stack:** Python
+| | Project | Stack |
+|---|---|---|
+| 🍕 | [Pizza Sales Trends](https://github.com/gayatrigaikwad2311/pizza_sales_trends) | Python · Pandas · Matplotlib · Seaborn |
+| 🛒 | [Retail Data Analysis](https://github.com/gayatrigaikwad2311/retail_data_analysis_apr26) | Python · Pandas · Jupyter Notebook |
+| 🌲 | [Random Forest & Linear Regression](https://github.com/gayatrigaikwad2311/random_forest_algo) | Python · Scikit-learn · Jupyter Notebook |
+| 🤖 | [ML Project](https://github.com/gayatrigaikwad2311/MLproject) | Python |
 
 ---
 
