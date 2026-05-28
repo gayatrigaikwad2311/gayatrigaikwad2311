@@ -109,7 +109,7 @@ I'm a data professional with hands-on experience in **Python, SQL, and data anno
 
 ---
 
-## 🎯 What I'm Working On
+## <img width="1024" height="1024" alt="ChatGPT Image May 28, 2026, 07_30_06 PM" src="https://github.com/user-attachments/assets/17c6bea0-3089-42ef-8133-6a081aee71d6" /> What I'm Working On
 
 - 📌 Deepening Tableau skills — LOD expressions, Table Calculations, Dashboard design
 - 📌 Building a full end-to-end data pipeline project (Python → SQL → Tableau dashboard)
