@@ -96,31 +96,18 @@ I'm a data professional with hands-on experience in **Python, SQL, and data anno
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 What I'm Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gayatrigaikwad2311&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gayatrigaikwad2311&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gayatrigaikwad2311&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## <img width="1024" height="1024" alt="ChatGPT Image May 28, 2026, 07_30_06 PM" src="https://github.com/user-attachments/assets/17c6bea0-3089-42ef-8133-6a081aee71d6" /> What I'm Working On
-
-- 📌 Deepening Tableau skills — LOD expressions, Table Calculations, Dashboard design
-- 📌 Building a full end-to-end data pipeline project (Python → SQL → Tableau dashboard)
-- 📌 Adding SQL case study projects targeting real business problems
-- 📌 TCS iON National Proficiency Test — Data Analyst certification
+-  Deepening Tableau skills — LOD expressions, Table Calculations, Dashboard design
+-  Building a full end-to-end data pipeline project (Python → SQL → Tableau dashboard)
+-  Adding SQL case study projects targeting real business problems
+-  TCS iON National Proficiency Test — Data Analyst certification
 
 ---
 
 ## 💼 Open To
 
-✅ Data Analyst roles &nbsp;|&nbsp; ✅ Business Analyst roles &nbsp;|&nbsp; ✅ Data Engineer (entry) &nbsp;|&nbsp; ✅ ML/AI Analyst roles
+ Data Analyst roles &nbsp;|&nbsp;  Business Analyst roles &nbsp;|&nbsp;  Data Engineer (entry) &nbsp;|&nbsp;  ML/AI Analyst roles
 
 ---
 
